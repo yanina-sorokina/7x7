@@ -8,10 +8,10 @@
 
 Данные получены из следующих источников:
 
-- [Агрегатор судебных дел ГАС РФ "Правосудие"] (https://sudrf.ru/):
-  - тексты приговоров скачены с помощью [парсера Если быть Точным] (https://github.com/tochno-st/sudrfscraper) по статьям УК РФ 109, 118, 124, 238, 293 
+- Агрегатор судебных дел ГАС РФ ["Правосудие"] (https://sudrf.ru/):
+  - тексты приговоров скачены с помощью [парсера] Если быть Точным (https://github.com/tochno-st/sudrfscraper) по статьям УК РФ 109, 118, 124, 238, 293 
   - данные охватывают период от 05/09/2019 до 20/06/2024
-- [посты группы Вконтакте "Насилие в родах"] (https://vk.com/humanize_birth):
+- посты группы Вконтакте ["Насилие в родах"] (https://vk.com/humanize_birth):
   - посты скачены с помощью [VK API] (https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) 
   - данные охватывают период от 21/10/2016 до 02/10/2024
 
@@ -78,14 +78,14 @@ This analysis uses TKTKTK spreadsheets.
 
 The spreadsheets come from the following sources:
 
-- [Court case aggregator GAS RF “Justice”] (https://sudrf.ru/):
+- Court case aggregator GAS RF [“Justice”] (https://sudrf.ru/):
   - texts of sentences downloaded with the help of [parser To be Accurate] (https://github.com/tochno-st/sudrfscraper) for articles of the Criminal Code of the Russian Federation 109, 118, 124, 238, 293
-  - data cover the period from 05/09/2019 to 20/06/2024
-- [posts of the Vkontakte group “Violence in childbirth”] (https://vk.com/humanize_birth):
+  - data covers the period from 05/09/2019 to 20/06/2024
+- posts of the Vkontakte group [“Violence in childbirth”] (https://vk.com/humanize_birth):
   - posts were parsed using [VK API] (https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)
-  - data cover the period from 21/10/2016 to 02/10/2024
+  - data covers the period from 21/10/2016 to 02/10/2024
 
-Each of the spreadsheets contain, among others, the following columns relevant to the analysis:
+Each of the spreadsheets contains, among others, the following columns relevant to the analysis:
 
 - `detailed_data_VK.csv` - posts from the VK group “Violence in childbirth”
   - `text` - original text of the post
@@ -95,7 +95,7 @@ Each of the spreadsheets contain, among others, the following columns relevant t
   - `lemmas` - lemmas derived from the cleaned text of the post
   - `emotion_shares` - emotions and emotion shares from all relevant words in the post
   - `total_emotion_shares` - total share of emotions in the post
-- `childbirth_all_articles.csv` - texts of sentences under five above-mentioned articles of the Criminal Code of the Russian Federation
+- `childbirth_all_articles.csv` - texts of sentences under the five above-mentioned articles of the Criminal Code of the Russian Federation
   - `no. of suspects` - number of defendants
   - `yearDate` - year of sentencing
   - `resultDate` - full date of sentencing
@@ -105,7 +105,7 @@ Each of the spreadsheets contain, among others, the following columns relevant t
   - `relevant` - whether the case describes violence in childbirth (yes/no/-)
   - `mother killed` - whether the woman in labor died.
   - `child killed` - whether the newborn baby died
-  - `entence years` - number of years of confinement
+  - `sentence years` - number of years of confinement
   - `drop reason` - reason for dropping a sentence or dropping a case
   - `commentary` - commentary during manual data check
 
