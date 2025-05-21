@@ -11,8 +11,8 @@
 - Агрегатор судебных дел ГАС РФ [Правосудие](https://sudrf.ru/):
   - тексты приговоров скачены с помощью [парсера](https://github.com/tochno-st/sudrfscraper) Если быть Точным по статьям УК РФ 109, 118, 124, 238, 293 
   - данные охватывают период от 05/09/2019 до 20/06/2024
-- посты группы Вконтакте ["Насилие в родах"] (https://vk.com/humanize_birth):
-  - посты скачены с помощью [VK API] (https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) 
+- посты группы Вконтакте ["Насилие в родах"](https://vk.com/humanize_birth):
+  - посты скачены с помощью [VK API](https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) 
   - данные охватывают период от 21/10/2016 до 02/10/2024
 
 
@@ -78,11 +78,11 @@ This analysis uses TKTKTK spreadsheets.
 
 The spreadsheets come from the following sources:
 
-- Court case aggregator GAS RF [“Justice”] (https://sudrf.ru/):
-  - texts of sentences downloaded with the help of [parser To be Accurate] (https://github.com/tochno-st/sudrfscraper) for articles of the Criminal Code of the Russian Federation 109, 118, 124, 238, 293
+- Court case aggregator GAS RF [“Justice”](https://sudrf.ru/):
+  - texts of sentences downloaded with the help of [parser To be Accurate](https://github.com/tochno-st/sudrfscraper) for articles of the Criminal Code of the Russian Federation 109, 118, 124, 238, 293
   - data covers the period from 05/09/2019 to 20/06/2024
-- posts of the Vkontakte group [“Violence in childbirth”] (https://vk.com/humanize_birth):
-  - posts were parsed using [VK API] (https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)
+- posts of the Vkontakte group [“Violence in childbirth”](https://vk.com/humanize_birth):
+  - posts were parsed using [VK API](https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)
   - data covers the period from 21/10/2016 to 02/10/2024
 
 Each of the spreadsheets contains, among others, the following columns relevant to the analysis:
