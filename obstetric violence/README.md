@@ -62,7 +62,7 @@
 
 ## Лицензия
 
-Весь код в этом репозитории доступен под лицензией [MIT License](https://opensource.org/licenses/MIT). Файл данных в папке output/ доступен по лицензии [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). Все файлы в папке data/ являются общественным достоянием.
+Весь код в этом репозитории доступен под лицензией [MIT License](https://opensource.org/licenses/MIT). Файлы с данными доступны по лицензии [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). Все файлы в этой папке являются общественным достоянием.
 
 ## Отзывы / Вопросы?
 
@@ -131,7 +131,7 @@ You can run the analysis yourself. To do so, you'll need the following installed
 
 ## Licensing
 
-All code in this repository is available under the [MIT License](https://opensource.org/licenses/MIT). The data file in the output/ directory is available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license. All files in the data/ directory are released into the public domain.
+All code in this repository is available under the [MIT License](https://opensource.org/licenses/MIT). The data file is available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license. All files in this directory are released into the public domain.
 
 ## Feedback / Questions?
 
