@@ -1,4 +1,4 @@
-# Анализ данных для текста "ТКТКТК" — от 10/2016 до 10/2024 (English version below)
+# Анализ данных для текста "ТКТКТК" (English version below)
 
 Этот репозиторий содержит данные, код и результаты, которые подтверждают части текста [TKTKTKTK](https://support.semnasem.org/), опубликованного ДД/ММ/ГГГГ. Пожалуйста, прочитайте сам текст, содержащий важный контекст и подробности, прежде чем продолжить.
 
@@ -10,7 +10,7 @@
 
 - Агрегатор судебных дел ГАС РФ [Правосудие](https://sudrf.ru/):
   - тексты приговоров скачены с помощью [парсера](https://github.com/tochno-st/sudrfscraper) Если быть Точным по статьям УК РФ 109, 118, 124, 238, 293 
-  - данные охватывают период от 05/09/2019 до 20/06/2024
+  - данные охватывают период от 16/01/2018 до 14/04/2025
 - посты группы Вконтакте ["Насилие в родах"](https://vk.com/humanize_birth):
   - посты скачены с помощью [VK API](https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) 
   - данные охватывают период от 21/10/2016 до 02/10/2024
@@ -43,7 +43,7 @@
 
 ## Методология
 
-Рабочая тетрадь [`sentiment analysis.ipynb`](notebook/tktktk.ipynb) производит следующий анализ:
+Рабочая тетрадь [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/sentiment%20analysis.ipynb) производит следующий анализ:
 
 ##### Часть 1: Скачивание постов с помощью VK API
 
@@ -51,14 +51,14 @@
 
 ## Данные на выходе
 
-Рабочая тетрадь выводит датасет, содержащий анализ эмоций в постах "Насилие в родах": [`detailed_data_VK.csv`](output/tktktk.csv).
+Рабочая тетрадь выводит датасет, содержащий анализ эмоций в постах "Насилие в родах": [`detailed_data_VK.csv`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/detailed_data_VK.csv)).
 
 ## Репликация анализа
 
 Вы можете повторить анализ самостоятельно. Для этого на вашем компьютере должно быть установлено следующее:
 
 - Python 3
-- Библиотеки Python, указанные в [`sentiment analysis.ipynb`](notebook/tktktk.ipynb)
+- Библиотеки Python, указанные в [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/sentiment%20analysis.ipynb)
 
 ## Лицензия
 
@@ -111,7 +111,7 @@ Each of the spreadsheets contains, among others, the following columns relevant 
 
 ## Methodology
 
-The notebook [`sentiment analysis.ipynb`](notebook/tktktk.ipynb) performs the following analyses:
+The notebook [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/sentiment%20analysis.ipynb) performs the following analyses:
 
 ##### Part 1: Parsing posts using the VK API
 
@@ -120,14 +120,14 @@ The notebook [`sentiment analysis.ipynb`](notebook/tktktk.ipynb) performs the fo
 
 ## Outputs
 
-The notebooks output this spreadsheet which contains analysis of emotions in the post “Violence in childbirth”: [`detailed_data_VK.csv`](output/tktktktk.csv).
+The notebooks output this spreadsheet which contains analysis of emotions in the post “Violence in childbirth”: [`detailed_data_VK.csv`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/detailed_data_VK.csv).
 
 ## Running the analysis yourself
 
 You can run the analysis yourself. To do so, you'll need the following installed on your computer:
 
 - Python 3
-- The Python libraries specified in [`sentiment analysis.ipynb`](notebook/tktktk.ipynb)
+- The Python libraries specified in [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/sentiment%20analysis.ipynb)
 
 ## Licensing
 
