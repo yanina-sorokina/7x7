@@ -51,7 +51,7 @@
 
 ## Данные на выходе
 
-Рабочая тетрадь выводит датасет, содержащий анализ эмоций в постах "Насилие в родах": [`detailed_data_VK.csv`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/detailed_data_VK.csv)).
+Рабочая тетрадь выводит датасет, содержащий анализ эмоций в постах "Насилие в родах": [`detailed_data_VK.csv`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/detailed_data_VK.csv).
 
 ## Репликация анализа
 
