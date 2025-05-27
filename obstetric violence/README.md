@@ -9,7 +9,13 @@
 Данные получены из следующих источников:
 
 - Агрегатор судебных дел ГАС РФ [Правосудие](https://sudrf.ru/):
-  - тексты приговоров скачены с помощью [парсера](https://github.com/tochno-st/sudrfscraper) Если быть Точным по статьям УК РФ 109, 118, 124, 238, 293 
+  - тексты приговоров скачены с помощью [парсера](https://github.com/tochno-st/sudrfscraper) Если быть Точным по статьям УК РФ:
+    -  105 (Убийство),
+    -  109 (Причинение смерти по неосторожности),
+    -  118 (Причинение тяжкого вреда здоровью по неосторожности),
+    -  124 (Неоказание помощи больному),
+    -  238 (...оказание услуг, не отвечающих требованиям безопасности),
+    -  293 (Халатность) 
   - данные охватывают период от 16/01/2018 до 14/04/2025
 - посты группы Вконтакте ["Насилие в родах"](https://vk.com/humanize_birth):
   - посты скачены с помощью [VK API](https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) 
@@ -70,7 +76,7 @@
 
 # Analysis of Obstetric violence data set — 10/2016 to 10/2024
 
-This repository contains data, analytic code, and findings that support portions of the article, “[TKTKTKTK](https://support.semnasem.org/),” published Month Date, Year. Please read that article, which contains important context and details, before proceeding.
+This repository contains data, analytic code, and findings that support portions of the article, “[TKTKTKTK](https://support.semnasem.org/),” published Month Date, Year. Before proceeding, please read that article, which contains important context and details.
 
 ## Data
 
@@ -79,8 +85,14 @@ This analysis uses TKTKTK spreadsheets.
 The spreadsheets come from the following sources:
 
 - Court case aggregator GAS RF [“Justice”](https://sudrf.ru/):
-  - texts of sentences downloaded with the help of [parser To be Accurate](https://github.com/tochno-st/sudrfscraper) for articles of the Criminal Code of the Russian Federation 109, 118, 124, 238, 293
-  - data covers the period from 05/09/2019 to 20/06/2024
+  - texts of sentences downloaded with the help of [parser by "To be Precise"](https://github.com/tochno-st/sudrfscraper) for articles of the Criminal Code of the Russian Federation:
+    - 105 (Murder),
+    - 109 (Causing death by negligence),
+    - 118 (Causing serious harm to health by negligence),
+    - 124 (Failure to provide care to a sick person),
+    - 238 (...provision of services that do not meet safety requirements),
+    - 293 (Negligence).
+  - data covers the period from 16/01/2018 to 14/04/2025
 - posts of the Vkontakte group [“Violence in childbirth”](https://vk.com/humanize_birth):
   - posts were parsed using [VK API](https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)
   - data covers the period from 21/10/2016 to 02/10/2024
