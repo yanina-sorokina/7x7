@@ -16,10 +16,10 @@
     -  124 (Неоказание помощи больному),
     -  238 (...оказание услуг, не отвечающих требованиям безопасности),
     -  293 (Халатность) 
-  - данные охватывают период от 16/01/2018 до 14/04/2025
+  - всего было собрано 43906 приговоров, данные охватывают период от 16/01/2018 до 14/04/2025
 - посты группы Вконтакте ["Насилие в родах"](https://vk.com/humanize_birth):
   - посты скачены с помощью [VK API](https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) 
-  - данные охватывают период от 21/10/2016 до 02/10/2024
+  - всего было собрано 1018 постов, данные охватывают период от 21/10/2016 до 02/10/2024
 
 
 Итоговые файлы содержат, помимо прочего, следующие столбцы, имеющие отношение к анализу:
@@ -85,17 +85,17 @@ This analysis uses TKTKTK spreadsheets.
 The spreadsheets come from the following sources:
 
 - Court case aggregator GAS RF [“Justice”](https://sudrf.ru/):
-  - texts of sentences downloaded with the help of [parser by "To be Precise"](https://github.com/tochno-st/sudrfscraper) for articles of the Criminal Code of the Russian Federation:
+  - judgements downloaded with the help of [parser by "To be Precise"](https://github.com/tochno-st/sudrfscraper) for articles of the Criminal Code of the Russian Federation:
     - 105 (Murder),
     - 109 (Causing death by negligence),
     - 118 (Causing serious harm to health by negligence),
     - 124 (Failure to provide care to a sick person),
     - 238 (...provision of services that do not meet safety requirements),
     - 293 (Negligence).
-  - data covers the period from 16/01/2018 to 14/04/2025
+  - 43906 judgements were collected, data covers the period from 16/01/2018 to 14/04/2025
 - posts of the Vkontakte group [“Violence in childbirth”](https://vk.com/humanize_birth):
   - posts were parsed using [VK API](https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)
-  - data covers the period from 21/10/2016 to 02/10/2024
+  - 1018 posts were collected, data covers the period from 21/10/2016 to 02/10/2024
 
 Each of the spreadsheets contains, among others, the following columns relevant to the analysis:
 
