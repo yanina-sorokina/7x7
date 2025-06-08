@@ -1,6 +1,6 @@
-# Анализ данных для текста "ТКТКТК" (English version below)
+# Анализ данных для текста "Акушерское насилие в России" (English version below)
 
-Этот репозиторий содержит данные, код и результаты, которые подтверждают части текста [TKTKTKTK](https://support.semnasem.org/), опубликованного ДД/ММ/ГГГГ. Пожалуйста, прочитайте сам текст, содержащий важный контекст и подробности, прежде чем продолжить.
+Этот репозиторий содержит данные, код и результаты, которые подтверждают части текста ["Акушерское насилие в России"](https://support.semnasem.org/), опубликованного 09/06/2025. Пожалуйста, прочитайте сам текст, содержащий важный контекст и подробности, прежде чем продолжить.
 
 ## Данные
 
@@ -74,9 +74,9 @@
 
 Напишите Янине Сорокиной по адресу yanina.sorokina@protonmail.com
 
-# Analysis of Obstetric violence data set — 10/2016 to 10/2024
+# Analysis of Obstetric violence in Russia data
 
-This repository contains data, analytic code, and findings that support portions of the article, “[TKTKTKTK](https://support.semnasem.org/),” published Month Date, Year. Before proceeding, please read that article, which contains important context and details.
+This repository contains data, analytic code, and findings that support portions of the article, “[Obstetric violence in Russia](https://support.semnasem.org/),” published June 9th, 2025. Before proceeding, please read that article, which contains important context and details.
 
 ## Data
 
