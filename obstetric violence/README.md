@@ -49,7 +49,7 @@
 
 ## Методология
 
-Рабочая тетрадь [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/sentiment%20analysis.ipynb) производит следующий анализ:
+Рабочая тетрадь [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/66e9b30e67bf9eb53bc3b98140503fcf6ee0ea0e/obstetric%20violence/sentiment%20analysis.ipynb) производит следующий анализ:
 
 ##### Часть 1: Скачивание постов с помощью VK API
 
@@ -64,7 +64,7 @@
 Вы можете повторить анализ самостоятельно. Для этого на вашем компьютере должно быть установлено следующее:
 
 - Python 3
-- Библиотеки Python, указанные в [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/sentiment%20analysis.ipynb)
+- Библиотеки Python, указанные в [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/66e9b30e67bf9eb53bc3b98140503fcf6ee0ea0e/obstetric%20violence/sentiment%20analysis.ipynb)
 
 ## Лицензия
 
@@ -123,7 +123,7 @@ Each of the spreadsheets contains, among others, the following columns relevant 
 
 ## Methodology
 
-The notebook [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/sentiment%20analysis.ipynb) performs the following analyses:
+The notebook [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/66e9b30e67bf9eb53bc3b98140503fcf6ee0ea0e/obstetric%20violence/sentiment%20analysis.ipynb) performs the following analyses:
 
 ##### Part 1: Parsing posts using the VK API
 
@@ -139,7 +139,7 @@ The notebooks output this spreadsheet which contains analysis of emotions in the
 You can run the analysis yourself. To do so, you'll need the following installed on your computer:
 
 - Python 3
-- The Python libraries specified in [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/6353c26b5ba9f2ea0862fe8485ed0e77f865aeb1/obstetric%20violence/sentiment%20analysis.ipynb)
+- The Python libraries specified in [`sentiment analysis.ipynb`](https://github.com/yanina-sorokina/7x7/blob/66e9b30e67bf9eb53bc3b98140503fcf6ee0ea0e/obstetric%20violence/sentiment%20analysis.ipynb)
 
 ## Licensing
 
