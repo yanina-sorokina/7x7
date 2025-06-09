@@ -1,4 +1,4 @@
-# Анализ данных для текста "Акушерское насилие в России" (English version below)
+# Акушерское насилие в России — анализ данных (English version below)
 
 Этот репозиторий содержит данные, код и результаты, которые подтверждают части текста [«Женщина обязана через боль и страдания родить ребенка»: исследование о причинах и последствиях акушерского насилия в России](https://semnasem.org/articles/2025/06/06/akusherskoe-nasilie-v-rossii), опубликованного 06/06/2025. Пожалуйста, прочитайте сам текст, содержащий важный контекст и подробности, прежде чем продолжить.
 
@@ -74,7 +74,7 @@
 
 Напишите Янине Сорокиной по адресу yanina.sorokina@protonmail.com
 
-# Analysis of Obstetric violence in Russia data
+# Obstetric violence in Russia — data analysis
 
 This repository contains data, analytic code, and findings that support portions of the article, [“A woman is obliged through pain and suffering to give birth to a child": a study on the causes and consequences of obstetric violence in Russia](https://semnasem-org.translate.goog/articles/2025/06/06/akusherskoe-nasilie-v-rossii?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp), published June 6th, 2025. Before proceeding, please read that article, which contains important context and details.
 
