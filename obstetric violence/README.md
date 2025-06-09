@@ -1,6 +1,6 @@
 # Анализ данных для текста "Акушерское насилие в России" (English version below)
 
-Этот репозиторий содержит данные, код и результаты, которые подтверждают части текста ["Акушерское насилие в России"](https://support.semnasem.org/), опубликованного 09/06/2025. Пожалуйста, прочитайте сам текст, содержащий важный контекст и подробности, прежде чем продолжить.
+Этот репозиторий содержит данные, код и результаты, которые подтверждают части текста ["Акушерское насилие в России"](https://semnasem.org/articles/2025/06/06/akusherskoe-nasilie-v-rossii), опубликованного 06/06/2025. Пожалуйста, прочитайте сам текст, содержащий важный контекст и подробности, прежде чем продолжить.
 
 ## Данные
 
@@ -76,7 +76,7 @@
 
 # Analysis of Obstetric violence in Russia data
 
-This repository contains data, analytic code, and findings that support portions of the article, “[Obstetric violence in Russia](https://support.semnasem.org/),” published June 9th, 2025. Before proceeding, please read that article, which contains important context and details.
+This repository contains data, analytic code, and findings that support portions of the article, “[Obstetric violence in Russia](https://semnasem-org.translate.goog/articles/2025/06/06/akusherskoe-nasilie-v-rossii?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp),” published June 6th, 2025. Before proceeding, please read that article, which contains important context and details.
 
 ## Data
 
