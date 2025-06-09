@@ -80,7 +80,7 @@ This repository contains data, analytic code, and findings that support portions
 
 ## Data
 
-This analysis uses TKTKTK spreadsheets.
+This analysis uses data from the VK group “Violence during Childbirth” and texts of court judgements on obstetric violence.
 
 The spreadsheets come from the following sources:
 
@@ -93,7 +93,7 @@ The spreadsheets come from the following sources:
     - 238 (...provision of services that do not meet safety requirements),
     - 293 (Negligence).
   - 43906 judgements were collected, data covers the period from 16/01/2018 to 14/04/2025
-- posts of the Vkontakte group [“Violence in childbirth”](https://vk.com/humanize_birth):
+- posts of the Vkontakte group [“Violence during childbirth”](https://vk.com/humanize_birth):
   - posts were parsed using [VK API](https://dev.vk.com/ru/api/access-token/getting-started#%D0%9A%D0%BB%D1%8E%D1%87%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)
   - 1018 posts were collected, data covers the period from 21/10/2016 to 02/10/2024
 
